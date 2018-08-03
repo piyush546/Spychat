@@ -6,14 +6,14 @@ Version:1.0
 Author Name:Piyush Kumar
 
 Objectives:
-Add a status update.
-Add a friend.
-Send a secret message.
-Read a secret message.
-Read Chats from a user.
-Print the avg words spoken by a friend
-Delete a spy from list of spies if they are speaking too much.
-Close Application
+1.Add a status update.
+2.Add a friend.
+3.Send a secret message.
+4.Read a secret message.
+5.Read Chats from a user.
+6.Print the avg words spoken by a friend
+7.Delete a spy from list of spies if they are speaking too much.
+8.Close Application
 
 Python setup
 To properly use this python-modules some additional libraries have to be installed beforehand. This can be easily accomplished with the commands below.
