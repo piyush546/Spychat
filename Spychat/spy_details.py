@@ -20,13 +20,14 @@ class Spy():
         self.age = age
         self.ratings = ratings
         self.is_online = True
+        # List to contain chats
         self.chats = []
         # to count the words of the message
         self.count = 0
         self.status = None
 
 
-# A class to contain chats
+# A class to initialize chats
 class Chat_message():
     def __init__(self, message, sent_by_me):
         self.message = message
@@ -37,7 +38,7 @@ class Chat_message():
 # Creating object of spy class
 spy = Spy('Piyush', 'Mr.', 18, 4.5)
 
-# Creating some default freinds odsf spy
+# Creating some default freinds of spy
 friend_1 = Spy('Carlos', 'Dr.', 20, 5)
 friend_2 = Spy('Nakamura', 'Mr.', 19, 4.0)
 friend_3 = Spy('Maraiah', 'Mrs.', 22, 4.8)
