@@ -5,7 +5,7 @@ Created on Tue Jul 31 02:37:07 2018
 @author: pc
 """
 # Written by Piyush Kumar
-# A project for building an terminal based spychat app
+# A project for building a terminal based spychat app
 # Following PEP Guidlines and Zen of Python
 
 # To import default user data
